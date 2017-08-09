@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mickeystudio.convertvideo2mp3",
+    "sha256_cert_fingerprints":
+    ["92:64:80:18:E5:9E:97:D3:D3:9E:77:0B:15:98:D5:63:FD:5B:39:84:B2:FE:0C:A6:CE:5D:3B:2A:6E:EC:2F:7D"]
+  }
+}]
